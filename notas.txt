@@ -1,0 +1,8 @@
+
+
+SMTP
+SFTP
+DB
+
+
+las carpetas creadas son solo formas de organizar el proyecto
